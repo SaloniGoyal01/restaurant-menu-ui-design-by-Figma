@@ -8,7 +8,7 @@ This is a UI/UX design created using **Figma** for a food/restaurant interface f
 
 ## 🔗 Live Prototype (Figma)
 
-<a href="https://www.figma.com/file/QXBewRm1rwLnLan3FUjDUb/Untitled?type=design&node-id=92%3A212&mode=design" target="_blank">
+<a href="https://www.figma.com/proto/QXBewRm1rwLnLan3FUjDUb/Untitled?node-id=545-52&p=f&t=7IdNaTplEhln0D1D-0&scaling=scale-down&content-scaling=fixed&page-id=92%3A212&starting-point-node-id=545%3A52" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma Logo" width="30" style="vertical-align:middle;"/>
 </a>
 
